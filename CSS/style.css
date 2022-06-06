@@ -1,0 +1,135 @@
+*{
+
+    margin: 0;
+    padding: 0;
+}
+
+
+
+#First h3{
+
+    font-style: italic;
+    font-size: 30px;
+    color: #212629;
+    margin-bottom: 60px;
+}
+
+#First{
+
+    text-align: center;
+    padding: 17rem 0;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg);
+    background-position: center;
+    background-size: cover;
+}
+#First h1{
+
+    font-size: 90px;
+    color: #212529;
+}
+#First a{
+text-decoration: none;
+border: 1px solid #1D809F;
+border-radius: 5px;
+padding: 20px 40px;
+color: white;
+transition: 0.6s;
+
+}
+
+#First a :hover{
+
+ background-color: #16596e;
+}
+#Second {
+
+    text-align: center;
+    padding: 9rem 0;
+}
+#Second h2{
+
+    font-size: 35px;
+    font-family: sans-serif;
+}
+#Second p{
+    font-size: 25px;
+    font-family: sans-serif;
+    margin-bottom: 60px;
+}
+#Second .offer{
+    text-decoration: none;
+    background-color: #212529;
+    border: 1px solid #212529;
+    border-radius: 5px;
+    padding: 20px 40px;
+    color: white;
+    transition: 0.6s;
+}
+#Second .offer :hover{
+
+    background-color: gray;
+}
+#Third{
+
+    text-align: center;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg);
+    padding: 20rem 0;
+    background-position: center;
+    background-size: cover;
+}
+#Third h1{
+    font-size: 90px;
+    color: #212529;
+    margin-bottom: 60px;
+}
+#Third a{
+    text-decoration: none;
+    border: 1px solid #1D809F;
+    background-color: #1D809F;
+    border-radius: 5px;
+    padding: 20px 40px;
+    color: white;
+    transition: 0.6s;
+}
+#Third a :hover{
+
+    background-color: #16596e;
+
+}
+#Fourth{
+    text-align: center;
+    background-color: #1D809F;
+    padding: 10rem 0;
+}
+#Fourth h1{
+    color: #fff;
+    margin-bottom: 60px;
+}
+#Fourth a{
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  #Fourth .click {
+    background-color: #F8F9FA;
+    border: 1px solid #F8F9FA;
+    padding: 20px 40px;
+    color: #000;
+    margin: 0 24px 0 0;
+    transition: 0.6s;
+}
+#Fourth .click:hover{
+    background-color: grey;
+    color: #F8F9FA;
+}
+#Fourth .look{
+    background-color: #212529;
+    border: 1px solid #212529;
+    padding: 20px 40px;
+    color: #fff;
+    transition: 0.6s;
+
+}
+#Fourth .look:hover{
+    background-color:grey;
+    
+}
